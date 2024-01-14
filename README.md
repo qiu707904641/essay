@@ -1,5 +1,5 @@
 # 目录
-1. [小猪券包](https://github.com/qiu707904641/essay/edit/main/README.md#%E5%B0%8F%E7%8C%AA%E5%88%B8%E5%8C%85)
+1. [小猪券包](https://github.com/qiu707904641/essay?tab=readme-ov-file#%E5%B0%8F%E7%8C%AA%E5%88%B8%E5%8C%85)
 ## 小猪券包
 - 制作背景
 - 架构图
